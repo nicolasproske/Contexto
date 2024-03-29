@@ -33,8 +33,3 @@ _Tested with_
 ![Screenshot 1](PrivateResources/Screenshot_1.png) ![]()
 ![Screenshot 2](PrivateResources/Screenshot_2.png) ![]()
 ![Screenshot 3](PrivateResources/Screenshot_3.png) ![]()
-
----
-
-## License
-Distributed under the MIT License. See `LICENSE` for more information.
